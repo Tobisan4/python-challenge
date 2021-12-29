@@ -1,7 +1,7 @@
 # python-challenge
 Repository holds the Python exercises: PyBank and PyPoll
 
-PyBank
+PyBank - 
 Analyzes a file that contains the monthly profits/losses information. The output of the analysis will provide the following:
 1. Number of months covered by the analysis
 2. Net total amount of profits/losses over the entire period
@@ -12,7 +12,7 @@ Analyzes a file that contains the monthly profits/losses information. The output
 The output will be to display these information and also export it to a file.
 
 
-PyPoll
+PyPoll - 
 Analyzes a file that contains the votes casted for an election. The output of the analysis is to provide the election results and will include the following:
 1. The total number of votes counted
 2. The list of candidates who received at least 1 vote
