@@ -12,8 +12,8 @@ with open(csv_path) as csv_file:
     # Create a list that contains the voted names
     names = []
     
-    # Skip the data header line
-    next(csv_reader)
+    # Read the header row first and store it to a variable
+    csv_header = next(csv_reader)
         
     # Read each row of data after the header
     for row in csv_reader:
